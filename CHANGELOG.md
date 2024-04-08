@@ -2,6 +2,18 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [3.3.0](///compare/v3.2.0...v3.3.0) (2024-04-08)
+
+
+### Features
+
+* SPOON-23 demo 047227b
+
+
+### Bug Fixes
+
+* SPOON-231 afa 2d8e4ed
+
 ## [3.2.0](///compare/v3.1.0...v3.2.0) (2024-04-08)
 
 
